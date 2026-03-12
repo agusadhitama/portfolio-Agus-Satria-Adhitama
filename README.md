@@ -9,8 +9,7 @@ Welcome to my personal portfolio website.
 This website showcases my skills, projects, and experience in **IT Support, Web Development, and IT Infrastructure**.
 
 🔗 Live Website  
-[https://agusadhitama.github.io/agus-satria-adhitama-portfolio/
-https://agusadhitama.github.io/agus-satria-adhitama-Portfolio/](https://agusadhitama.github.io/agus-satria-adhitama-Portfolio/)
+[https://agusadhitama.github.io/agus-satria-adhitama-portfolio/ (https://agusadhitama.github.io/agus-satria-adhitama-Portfolio/)
 
 ---
 
